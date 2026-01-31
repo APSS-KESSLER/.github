@@ -1,5 +1,3 @@
-# Merge Request (MR) Template
-
 ## Summary
 <!-- Provide a short summary of your changes -->
 

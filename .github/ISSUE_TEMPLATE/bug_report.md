@@ -1,5 +1,3 @@
-# GitHub Issue Template
-
 ## Description
 <!-- Describe the issue or feature request in detail -->
 
