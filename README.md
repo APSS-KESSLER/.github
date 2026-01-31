@@ -1,3 +1,3 @@
-# apss-project-template
+# .github
 
-Project template and C coding standards.
+Holds the PR and issues org wide templates and the readme for the org. 
