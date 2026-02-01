@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: 'Report a bug '
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Description
 <!-- Describe the issue or feature request in detail -->
 
